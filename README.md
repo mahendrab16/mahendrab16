@@ -1,5 +1,5 @@
 # 💫 Hi,I am Mahendra B
-I'm a passionate frontend developer from India.
+I'm a passionate Software Developer from India.
 
 
 ## 🌐 Socials:

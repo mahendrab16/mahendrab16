@@ -1,7 +1,7 @@
 # 💫 Hi,I am Mahendra B
 I'm a passionate Software Developer from India.
 
-<p align="center"> <table> <tr> <td style="background-color:#ffffff; border:1px solid #d0d7de; border-radius:8px; padding:24px;" align="center"> <img width="380" src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/developer_activity_bv83.svg" alt="Developer illustration" /> </td> </tr> </table> </p>
+<p align="center"> <table> <tr> <td style="background-color:#ffffff; border:1px solid #d0d7de; border-radius:8px; padding:24px;" align="center"> <img align="cenetr"  width="380" src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/developer_activity_bv83.svg" alt="Developer illustration" /> </td> </tr> </table> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendra-b-b904a3395/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahendrabmahi2006@gmail.com) 

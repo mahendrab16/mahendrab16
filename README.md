@@ -2,6 +2,7 @@
 I'm a passionate Software Developer from India.
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B23EA,50:5B5FE9,100:1FBFA8&height=200&section=header&text=Mahendra%20B&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Data%20Science%20Enthusiast%20%7C%20Undergraduate%20CSE&descAlignY=55&descSize=20&animation=fadeIn" width="100%" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/mahendra-b-b904a3395/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:mahendrabmahi2006@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center"> <table> <tr> <td style="background-color:#ffffff; border:1px solid #d0d7de; border-radius:8px; padding:24px;" align="center"> <img width="380" src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/illustrations/developer_activity_bv83.svg" alt="Developer illustration" /> </td> </tr> </table> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendra-b-b904a3395/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahendrabmahi2006@gmail.com) 

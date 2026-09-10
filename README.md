@@ -1,4 +1,4 @@
-# 💫 Hi,I am Mahendra B
+# 💫 About Me
 I'm a passionate Software Developer from India.
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B23EA,50:5B5FE9,100:1FBFA8&height=200&section=header&text=Mahendra%20B&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20A%20I%20Enthusiast%20%7C%20Undergraduate%20CSE&descAlignY=55&descSize=20&animation=fadeIn" width="100%" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/mahendra-b-b904a3395/"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:mahendrabmahi2006@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>

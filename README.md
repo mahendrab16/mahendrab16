@@ -34,3 +34,8 @@ I'm a Computer Science Engineering student passionate about Artificial Intellige
 [![](https://komarev.com/ghpvc/?username=mahendrab16&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🤝 Let's Connect
+
+I'm always interested in learning, collaborating, building projects, and exploring new ideas in AI and technology.
+
+Learn • Build • Experiment • Improve 🚀

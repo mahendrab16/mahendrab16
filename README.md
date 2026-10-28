@@ -5,33 +5,24 @@
 
 I'm a Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, Generative AI, and Software Development. I enjoy turning ideas into practical projects and continuously exploring emerging technologies.
 
-🚀 What I'm Interested In:-
-
-🤖 Artificial Intelligence & Machine Learning
-
-🧠 Generative AI & LLMs
-
-📊 Data Science & Predictive Analytics
-
-💻 Python & Full-Stack Development
-
-🔍 NLP, Computer Vision & RAG
-
-☁️ Cloud & AI-powered Applications
-
-📌 Currently:-
-
-🌱 Learning and building projects in AI/ML & Generative AI
-
-🔨 Working on practical, real-world applications
-
-📚 Improving my problem-solving and software development skills
-
-🎯 Preparing for opportunities in the tech industry
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+
+
+# 🚀 What I'm Interested In:-
+🤖 Artificial Intelligence & Machine Learning<br/>
+🧠 Generative AI & LLMs<br/>
+📊 Data Science & Predictive Analytics<br/>
+💻 Python & Full-Stack Development<br/>
+🔍 NLP, Computer Vision & RAG<br/>
+☁️ Cloud & AI-powered Applications<br/>
+
+# 📌 Currently:-
+🌱 Learning and building projects in AI/ML & Generative AI<br/>
+🔨 Working on practical, real-world applications<br/>
+📚 Improving my problem-solving and software development skills<br/>
+🎯 Preparing for opportunities in the tech industry<br/>
 
 
 # 📊 GitHub Stats:
@@ -45,7 +36,7 @@ I'm a Computer Science Engineering student passionate about Artificial Intellige
 ---
 [![](https://komarev.com/ghpvc/?username=mahendrab16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 🤝 Let's Connect
 
 I'm always interested in learning, collaborating, building projects, and exploring new ideas in AI and technology.
